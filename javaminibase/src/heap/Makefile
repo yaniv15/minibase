@@ -1,4 +1,4 @@
-JDKPATH = /usr/lib/jvm/java-8-openjdk-amd64
+JDKPATH = /usr/lib/jvm/default-java
 LIBPATH = /home/vinay/Desktop/minjava/javaminibase/construction
 CLASSPATH = $(JDKPATH)/lib/classes.zip:.:..:$(LIBPATH)
 BINPATH = $(JDKPATH)/bin
